@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Carta de Presentacion</string>
+    <string name="nombre">Jamil Tuncar Quispe</string>
+    <string name="estudiante">Estudiante</string>
+    <string name="numero">+51 999888777</string>
+    <string name="correo">jamil.dsm.pe</string>
+    <string name="github">JamilTuncarQ</string>
+</resources>
